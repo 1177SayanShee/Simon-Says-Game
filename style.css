@@ -35,6 +35,11 @@ body {
   background-color: white;
 }
 
-.userflash {
+/* .userflash {
   background-color: green;
+} */
+
+.userflash {
+  box-shadow: 0 0 25px 10px white;
+  transform: scale(1.05);
 }
